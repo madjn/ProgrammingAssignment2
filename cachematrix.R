@@ -1,5 +1,5 @@
 ## Caches the inverse of a matrix rather than computing it
-repeatedly
+## repeatedly
 
 ## This function creates a special "matrix" object
 ## that can cache its inverse.
